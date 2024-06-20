@@ -15,6 +15,8 @@ This template contains:
 - AlpineJS 3.4.2
 - Tailwind 3.1.0
 
+Breeze is used for the authentication, Pest for testing.
+Sass to edit the Bootstrap, otherwise there is still the default Tailwind.
 
 ## After cloning steps
 
